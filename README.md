@@ -20,6 +20,10 @@ entramos a la carpeta del proyecto
 ```bash
 cd [carpeta del proyecto]
 ```
+instalamos dependencias
+```
+npm install
+```
 
 corremos el proyecto
 ```
