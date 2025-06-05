@@ -14,12 +14,14 @@ Verifica que esté instalado correctamente:
 ```bash
 node -v    # debe mostrar v20.15.1
 npm -v     # versión de npm correspondiente
-
+```
 
 entramos a la carpeta del proyecto
 ```bash
 cd [carpeta del proyecto]
-
+```
 
 corremos el proyecto
+```
 npm run dev
+```
